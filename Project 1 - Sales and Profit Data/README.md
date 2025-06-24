@@ -16,5 +16,5 @@ This Excel dashboard analyzes sales performance and profit trends across multipl
 - Dashboard Layout Design
 
 ### 📁 Files Included:
-- `SalesDashboard.xlsx` – Main Excel file with raw data, analysis, and dashboard
-- `Dashboard.png` – Exported image of the completed dashboard
+- `1. Dashboard.png` – Exported image of the completed dashboard
+- `2. Sales and Proit Data.xlsx` – Main Excel file with raw data, analysis, and dashboard
