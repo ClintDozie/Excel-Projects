@@ -9,5 +9,5 @@ A 5-year Excel dashboard analyzing admissions, billing, and medical condition tr
 - Tools: Excel, PivotTables, Conditional Formatting, Charts
 
 ### 📁 Files
-- `HospitalDashboard.xlsx` – Excel workbook with raw and processed data
-- `Dashboard.png` – Image preview of the Excel dashboard
+- `1. Dashboard.png` – Image preview of the Excel dashboard
+- `2. Hospital Admission Data.xlsx` – Excel workbook with raw and processed data
