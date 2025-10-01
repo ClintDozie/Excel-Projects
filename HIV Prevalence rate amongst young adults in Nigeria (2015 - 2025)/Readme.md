@@ -1,14 +1,14 @@
-# Title: HIV Prevalence rate among young adults and adults in Nigeria (2015–2025)
-File: HIV Prevalence Trend 2015-25 Updated.xlsx
+# Title: HIV Prevalence rate among young adults and adults in Nigeria (2015–2024)
+File: HIV Prevalence among young adults and adults in Nigeria (2015 - 2024).xlsx <br>
 Main analysis sheet: Pivot_Analysis (this contains the pivot outputs and the narrative statements used for this report)
 
 ### Description:
 This workbook contains prevalence data and pivot-based analyses of national HIV prevalence for 2015–2025, disaggregated by age and sex.
 It tells that Nigeria has recorded steady progress in reducing HIV prevalence over the past decade.
-Between 2015 and 2024, HIV prevalence in Nigeria shows a clear decline across all age groups:
-      • Adults (15 – 49): Prevalence fell from 1.7% in 2015 to 1.2% in 2024, a 29% decline reflecting a nearly one-third reduction.
-      • Young Men aged 15 – 24: Prevalence dropped from 0.4% to 0.3%, a 25% decline.
-      • Young Women aged 15 – 24: Prevalence dropped from 0.7% to 0.4%, marking the steepest decline at 43%.
+Between 2015 and 2024, HIV prevalence in Nigeria shows a clear decline across all age groups: <br>
+      • Adults (15 – 49): Prevalence fell from 1.7% in 2015 to 1.2% in 2024, a 29% decline reflecting a nearly one-third reduction. <br>
+      • Young Men aged 15 – 24: Prevalence dropped from 0.4% to 0.3%, a 25% decline. <br>
+      • Young Women aged 15 – 24: Prevalence dropped from 0.7% to 0.4%, marking the steepest decline at 43%. <br>
 Overall, the data highlights Nigeria’s progress in reducing HIV prevalence nationally, showcasing the effectiveness of ongoing HIV interventions, with the most substantial gains seen among young women, though they continue to carry higher risk compared to their male counterparts.
 
 ### What’s inside:
